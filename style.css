@@ -22,6 +22,8 @@ header{
     background-color: var(--cor0);
     display: flex;
     justify-content: space-evenly;
+    position: sticky;
+    top: -1px;
 }
 .logo_header{
     display: flex;
