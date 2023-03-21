@@ -171,6 +171,7 @@ hr{
 #sobre picture img{
     border-radius: 20px;
     width: 980px;
+    height: 500px;
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.414);
 }
 #sobre picture{
